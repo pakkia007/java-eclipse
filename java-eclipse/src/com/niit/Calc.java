@@ -1,9 +1,9 @@
 package com.niit;
 
-public class Calculator {
+public class Calc {
 Integer a,b;
 
-public Calculator(Integer a, Integer b) {
+public Calc(Integer a, Integer b) {
 	super();
 	this.a = a;
 	this.b = b;
